@@ -20,7 +20,7 @@ STATE_SPACE - define the limits of the search area;
 GOAL_STOP_RADIUS - distance to stop, nearby the goal;
 LINE_SIZE - length of exploring line (lover values => higher precision => higher resource consumption);
 COLL_DIST - safe distance, to avoid collisions with obstacles;
-MAP= numpy array [n,2] array, holds the obstacles;
+MAP - numpy array [n,2] array, holds the obstacles;
 ```
 Execute the 'test_rrt.py' to see the RRT in action.
 
