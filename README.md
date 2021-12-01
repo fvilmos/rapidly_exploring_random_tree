@@ -9,7 +9,7 @@ Path-planning is a resource-intensive task for robots / UAVs. The RRT algorithm 
 <img src="./info/rrt1.gif" alt="300" width="350"></a>
 </p>
 
-Red dots - obstacles; Yello dots - start/goal point locations; Pink dots - generated path. 
+Red dots - obstacles; Yellow dots - start/goal point locations; Pink dots - generated path. 
 
 ### How to use
 
